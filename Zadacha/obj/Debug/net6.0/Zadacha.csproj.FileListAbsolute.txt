@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\bin\Debug\net6.0\Zadacha.exe
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\bin\Debug\net6.0\Zadacha.deps.json
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\bin\Debug\net6.0\Zadacha.runtimeconfig.json
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\bin\Debug\net6.0\Zadacha.dll
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\bin\Debug\net6.0\Zadacha.pdb
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfo.cs
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.dll
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\refint\Zadacha.dll
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.pdb
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\Zadacha.genruntimeconfig.cache
+C:\Users\Админ\Desktop\FinalWork\-final-work\Zadacha\obj\Debug\net6.0\ref\Zadacha.dll
